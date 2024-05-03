@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Navaneeth K!
-
-# Digital Craftsman (Developer/Filmmaker/Creator) 👨‍💻🎥🛠️
 🚀 **Passionate** and **results-driven** tech enthusiast with a knack for turning complex challenges into innovative solutions. 🎮 As a dedicated **game developer**, I bring worlds to life through code, crafting immersive experiences that captivate and inspire. 🛠️ With a solid foundation in Computer Applications, I've honed my skills in programming, web development, and database management. 📚
 
 🌟 My journey includes hands-on experience in full-stack development, with a special focus on **game development**. I thrive on bringing creative ideas to life, especially within the realm of virtual playgrounds. 💡 Fueled by a constant desire to learn, I embrace challenges with a problem-solving mindset. 🧠
